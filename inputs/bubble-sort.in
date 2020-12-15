@@ -1,0 +1,6 @@
+// The program input for selection-sort/src/main.leo
+[main]
+arr: [u32; 10] = [8u32, 2u32, 4u32, 3u32, 5u32, 10u32, 7u32, 1u32, 9u32, 6u32];
+
+[registers]
+r0: u32 = 0;
